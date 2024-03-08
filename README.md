@@ -1,4 +1,4 @@
-# JavaFunctionalityVault 🛠️
+# Java Functionality Vault 🛠️
 
 Unlock the World of Java Programs!
 
